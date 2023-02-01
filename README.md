@@ -1,6 +1,6 @@
 # Attrition of employee
 
-A program for program for classifying attrition of employee.
+A program for classifying attrition of employee.
 
 Four machine learning models have been created:
 
